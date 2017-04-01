@@ -1,0 +1,65 @@
+.alert-danger{
+  display: none;
+}
+
+.name, .views {
+  padding-top: 10px;
+}
+
+.centerBlock{
+  margin: 0 auto;
+  position: relative;
+}
+.menu{
+  width: 880px;
+  margin: 12px auto 12px;
+  padding: 10px;
+}
+
+.menu form label {
+  margin: 0 10px;
+}
+.content{
+  background-color: #eeeeee;
+  width: 880px;
+  margin: 12px auto 12px;
+  padding: 30px;
+  border: 1px solid violet;
+}
+
+.row {
+  margin: 20px 0;
+  align-items: center;
+}
+
+h1{
+  font-family: 'Bungee', cursive;
+}
+body{
+  font-family: 'Raleway', sans-serif;
+}
+button{
+  min-width: 150px;
+}
+.title{
+  margin-top: 38px;
+  color: violet;
+}
+footer{
+  margin-bottom: 38px;
+}
+
+.logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+
+a.online {
+  color: green;
+}
+
+a.offline {
+  color: red;
+}
